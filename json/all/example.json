@@ -1,1 +1,16 @@
-
+{
+  "tab1": [
+    {
+      "name": "示例",
+      "source": {
+        "url": "/li/a/hlwsj.html",
+        "text": "互联网收集"
+      },
+      "items": [
+        {"z": "example-1", "text": "example-1"},
+        {"z": "example-2", "text": "example-2"},
+        {"z": "example-3", "text": "example-3"}
+      ]
+    }
+  ]
+}
