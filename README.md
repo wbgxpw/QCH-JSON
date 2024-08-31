@@ -65,7 +65,7 @@ JSON代码提交请看[到此处](https://github.com/Rickrollcc/QCH-JSON/blob/ma
 
 email：cndy114514@yeah.net
 
-github讨论:[点我跳转](/Rickrollcc/QCH-JSON/discussions)
+github讨论:[点我跳转]((https://github.com/Rickrollcc/QCH-JSON/discussions)
 
 qq群[点我跳转](https://wbgx.pw/li/a/qqq.html)
 
