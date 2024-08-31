@@ -1,0 +1,41 @@
+{
+  "tab1": [
+    {
+      "name": "示例",
+      "source": {
+        "url": "https://b23.tv/BV1eh4y1K791",
+        "text": "BV1epy1K791"
+      },
+      "items": [
+        {"z": "CNDY", "text": "CNDY"},
+        {"z": "我不甘心", "text": "我不甘心"}
+      ]
+    }
+  ],
+  
+  "tab2": [
+    {
+      "name": "示例",
+      "source": {
+        "url": "https://b23.tv/BV1eh4y1313791",
+        "text": "BV1epy1313791"
+      },
+      "items": [
+        {"z": "CNDY", "text": "CNDY"},
+        {"z": "我不甘心", "text": "我不甘心"}
+      ]
+    },
+    {
+      "name": "人是才",
+      "source": {
+        "url": "https://b23.tv/BV1eh4y131",
+        "text": "BV1epy131"
+      },
+      "items": [
+        {"z": "CNDY", "text": "CN"},
+        {"z": "我不甘心", "text": "哈哈"}
+      ]
+    }
+  ]
+  
+}
