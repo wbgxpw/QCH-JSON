@@ -7,9 +7,9 @@
         "text": "互联网收集"
       },
       "items": [
-        {"z": "example-1", "text": "example-1"},
-        {"z": "example-2", "text": "example-2"},
-        {"z": "example-3", "text": "example-3"}
+        {"z": "example1", "text": "example1"},
+        {"z": "example2", "text": "example2"},
+        {"z": "example3", "text": "example3"}
       ]
     }
   ]
