@@ -5,9 +5,9 @@
 
 #### 如何上传
 
-上传音频投稿请看[到此处](https://github.com/Rickrollcc/QCH-JSON/tree/master/sound/) 并阅读相关规定
+上传音频投稿请看[到此处](/tree/master/sound/) 并阅读相关规定
 
-JSON代码提交请看[到此处](https://github.com/Rickrollcc/QCH-JSON/blob/master/json/) 并按照其标准写
+JSON代码提交请看[到此处](/tree/master/json) 并按照其标准写
 
 ### 上传请遵循我们/github规定
 
@@ -65,7 +65,7 @@ JSON代码提交请看[到此处](https://github.com/Rickrollcc/QCH-JSON/blob/ma
 
 email：cndy114514@yeah.net
 
-github讨论:[点我跳转]((https://github.com/Rickrollcc/QCH-JSON/discussions)
+github讨论:[点我跳转](https://github.com/Rickrollcc/QCH-JSON/discussions)
 
 qq群[点我跳转](https://wbgx.pw/li/a/qqq.html)
 
