@@ -7,7 +7,7 @@
 
 上传音频投稿请看[到此处](/tree/master/sound/) 并阅读相关规定
 
-JSON代码提交请看[到此处](../sound/Readme.md) 并按照其标准写
+JSON代码提交请看[到此处](./sound/Readme.md) 并按照其标准写
 
 ### 上传请遵循我们/github规定
 
