@@ -93,7 +93,6 @@
         {"z": "只能回去守了", "text": "只能回去守了"},
         {"z": "不要破洞", "text": "不要破洞"},
         {"z": "我超耐磨", "text": "我超耐磨"},
-<<<<<<< HEAD
         {"z": "锤子（内容补充）", "text": "锤子（内容补充）"},
         {"z": "哇真的是吐了呀", "text": "哇真的是吐了呀"}
       ]
@@ -1407,7 +1406,6 @@
       "source": {
         "url": "https://b23.tv/BV18KWze1Efs",
         "text": "BV18KWze1Efs"
->>>>>>> branch 'master' of https://github.com/wbgxpw/QCH-JSON.git
       },
       "items": [
         {"z": "这剑菲不削能玩", "text": "这剑菲不削能玩"},
